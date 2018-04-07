@@ -1,0 +1,17 @@
+C:\Users\ricar\source\repos\CC\CC\bin\Debug\CC.exe.config
+C:\Users\ricar\source\repos\CC\CC\bin\Debug\CC.exe
+C:\Users\ricar\source\repos\CC\CC\bin\Debug\CC.pdb
+C:\Users\ricar\source\repos\CC\CC\bin\Debug\Dapper.dll
+C:\Users\ricar\source\repos\CC\CC\bin\Debug\Dapper.xml
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.csprojResolveAssemblyReference.cache
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.Properties.Resources.resources
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.csproj.GenerateResource.Cache
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.exe
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.pdb
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.Menu.resources
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.Tipo_doc.resources
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.Login.resources
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.Clientes.resources
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.Balances.resources
+C:\Users\ricar\source\repos\CC\CC\obj\Debug\CC.Transacciones.resources
